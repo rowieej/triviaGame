@@ -56,11 +56,11 @@ function decrement(){
     //var isTrueOrNot = possibleValues.contains($(this).attr('name'));
 
 
-    alert ($(this).val());
-    alert ($(this).attr('name'));
+   //alert ($(this).val());
+    //alert ($(this).attr('name'));
   
   var answerKey = //associat array
-  var userAnswers = [];
+  userAnswers = [];
   
 
   $(document).on('click', 'input[type="radio"]', function(event) {
