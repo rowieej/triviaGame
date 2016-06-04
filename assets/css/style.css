@@ -32,9 +32,20 @@ body{
 .main-container{
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
+
 
 }
 
-.question1{
+.question{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
 	background: #ffffff;
+	border: 4px solid #000000;
+	width: 50%;
+}
+
+.answers{
+
 }
